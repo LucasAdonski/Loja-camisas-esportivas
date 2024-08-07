@@ -1,0 +1,1 @@
+Projeto com o padrão MVC e CRUD aonde é vendida camisas esportivas. É gerado cookies, senha para ADMIN, Banner (Front-End), conexão com BD (mySQL) usando PDO.
